@@ -4,7 +4,7 @@
  *                    Student number : 101261396
  *                    Date last modified: 10/22/2021
  *                    Rivision history: 1st version : create object function added
- *                    Name of this Script: ObjectFactory : Based on the type instantiate the object and add it to its pool
+ *                    Name of this Script: ObjectFactory : Based on the type instantiate the object
  *                    
  *                    
  */

@@ -1,3 +1,13 @@
+/*
+ *                    CRIMINAL CATS
+ *                    Author: Negar Saeidi
+ *                    Student number : 101261396
+ *                    Date last modified: 10/22/2021
+ *                    Rivision history: 1st version : move the background and when it passes the border resets its position
+ *                    Name of this Script: scrollingBG : scrolls the background from top to bottom
+ *                    
+ *                    
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

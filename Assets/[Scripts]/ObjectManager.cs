@@ -1,3 +1,13 @@
+/*
+ *                    CRIMINAL CATS
+ *                    Author: Negar Saeidi
+ *                    Student number : 101261396
+ *                    Date last modified: 10/22/2021
+ *                    Rivision history: 1st version : GetObject and ReturnedObject functions added
+ *                    Name of this Script: ObjectManager : Based on the object type add the object to its pool or retutn it
+ *                    
+ *                    
+ */
 using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
